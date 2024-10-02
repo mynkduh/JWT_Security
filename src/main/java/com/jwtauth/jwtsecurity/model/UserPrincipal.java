@@ -1,4 +1,4 @@
-package com.telusko.part29springsecex.model;
+package com.jwtauth.jwtsecurity.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

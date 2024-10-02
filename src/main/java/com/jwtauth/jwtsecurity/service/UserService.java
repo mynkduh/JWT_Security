@@ -1,7 +1,7 @@
-package com.telusko.part29springsecex.service;
+package com.jwtauth.jwtsecurity.service;
 
-import com.telusko.part29springsecex.model.Users;
-import com.telusko.part29springsecex.repo.UserRepo;
+import com.jwtauth.jwtsecurity.model.Users;
+import com.jwtauth.jwtsecurity.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

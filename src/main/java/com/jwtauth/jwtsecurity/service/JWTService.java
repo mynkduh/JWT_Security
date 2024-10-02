@@ -1,4 +1,4 @@
-package com.telusko.part29springsecex.service;
+package com.jwtauth.jwtsecurity.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

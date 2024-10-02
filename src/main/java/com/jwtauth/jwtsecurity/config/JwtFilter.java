@@ -1,7 +1,7 @@
-package com.telusko.part29springsecex.config;
+package com.jwtauth.jwtsecurity.config;
 
-import com.telusko.part29springsecex.service.JWTService;
-import com.telusko.part29springsecex.service.MyUserDetailsService;
+import com.jwtauth.jwtsecurity.service.JWTService;
+import com.jwtauth.jwtsecurity.service.MyUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
